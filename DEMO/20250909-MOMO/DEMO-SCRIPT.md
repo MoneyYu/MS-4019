@@ -230,3 +230,17 @@
 - **PPT 主題跑版**：下指令「改用 *公司主題名稱* 重新排版並對齊標題高度」。  
 - **Agent 未附來源**：追加規則「所有回覆一律附檔名/工作表/頁碼/欄位」，再生。  
 - **無 Chat Agents 權限**：改走 **Copilot Studio**（本腳本已備援）。
+
+## 課前問題調查
+-   學員認為可以應用的工作情境
+    1. 使用Copilot寫VBA
+       - Copilot is able to write VBA code, but python is more powerful and flexible.
+       - Recommend use python instead of VBA
+    2. 翻譯、整理檔案並分析
+       - Yes, use app skills to translate and summarize
+    3. 辯讀PDF並作重點整理
+        - Use Copilot Chat
+-   資料上傳後使用問題(已理解檔案上傳至Copilot不會外流) 
+    1. 上傳的內容是否會被其他人搜尋到？例如：上傳公司工作規則或其他機敏資訊，是否其他人可透過 Copilot 查詢？
+    2. 上傳後的資料，哪些人看得到？
+    3. 有License的情況下，在Excel中使用Copilot協助處理資料，其他人是否能看到或搜尋這些內容？
