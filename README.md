@@ -8,8 +8,8 @@ GA: G-DXYJBX6BH8
 
 ## Course
 :::success
-Date: 20250909
-Course ID: 87165
+Date: 20251210
+Course ID: 91253
 :::
 
 :::info
@@ -24,16 +24,11 @@ Course Survey: [https://aka.ms/ms4019survey](https://aka.ms/ms4019survey)
 ## Infos
 [ESI Support](https://aka.ms/esisupport)
 
-<!--
 ## Lab
 ### Skillable lab system
 [ESI Labs](https://aka.ms/esilab)
-> Training key: 2120B771E46D4221
+> Training key: B0D6F9509A294AA6
 > > Only need to redeem once
-> > Valid for 6 months
-
-Turtoial Video: https://media.yu.money/common/lods.html
--->
 
 ### Instruction
 [MS-4019 Labs EN](https://github.com/MicrosoftLearning/MS-4019-Transform-your-everyday-business-processes-with-agents)
@@ -41,7 +36,8 @@ Turtoial Video: https://media.yu.money/common/lods.html
 [MS-4019 Lab files](https://github.com/MicrosoftLearning/MS-4019-Transform-your-everyday-business-processes-with-agents/archive/refs/heads/main.zip)
 
 ## Course Info
-![Info](https://mdcontent.yu.money/contents/MS-4019-ENU-Powerpoint-01.png)
+![Info](https://mdcontent.yu.money/contents/r94dx88dshfmndusp4dcur6yz.png)
+
 
 ## Links
 [Microsoft Copilot for Microsoft 365 overview](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview)
