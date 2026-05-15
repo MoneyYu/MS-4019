@@ -32,3 +32,11 @@ override.tf.json
 .terraformrc
 terraform.rc
 .terraform.lock.hcl
+
+###############################################################################
+# Demo seeders — keep credentials and runtime logs out of source control.
+# Scenario config.json files hold Azure App clientSecret values; run-log.txt
+# captures Graph responses including time-limited tempauth download URLs.
+###############################################################################
+**/seed-data/scenarios/*/config.json
+**/run-log.txt
